@@ -1,33 +1,84 @@
-## Hi there 👋
+<!--
+**borjabarber/borjabarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h1 align="center">Hi 👋, I'm Borja Barber</h1>
-<h3 align="center">A Data Scientist & AI Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borjabarber&label=Profile%20views&color=0e75b6&style=flat" alt="borjabarber" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borjabarber" alt="borjabarber" /></a> </p>
-
-- 🌱 I’m currently learning **multi agents systems**
-
-- 💬 Ask me about **Python, Data, AI News etc...**
-
-- 📫 How to reach me **borjagbarber@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/borjabarber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borjabarber/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/borjabarber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/borjabarber" height="30" width="40" /></a>
-<a href="https://instagram.com/borja.barber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borja.barber" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/borjabarber/borjabarber/raw/main/profile-banner.png" alt="Banner" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h1 align="center">¡Hola! 👋 Soy Borja Barber</h1>
+<p align="center">
+  <strong>Data Scientist &amp; AI Engineer</strong><br/>
+  Apasionado por transformar datos en insights accionables y construir soluciones de IA que marquen la diferencia.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borjabarber&show_icons=true&locale=en&layout=compact" alt="borjabarber" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&locale=en" alt="borjabarber" /></p>
+## 🚀 Sobre mí
+- 🎓 Graduado en **Ingeniería Informática** con especialización en Ciencia de Datos.
+- 🤖 Experiencia en **Machine Learning**, **Deep Learning** y **Sistemas Multi-Agente**.
+- 💡 Actualmente profundizando en arquitecturas de agentes autónomos y colaboración IA-humano.
+- 📖 Me encanta compartir conocimiento: charlas, blogs y mini-proyectos.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borjabarber&" alt="borjabarber" /></p>
+---
+
+## 🛠️ Habilidades & Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />  
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-F9AB00?logo=googlecloud&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+</div>
+
+---
+
+## 📚 Proyectos Destacados
+
+| Proyecto                         | Descripción                                                                                   | Tech Stack               |
+|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
+| **Dungeon_Master**               | Tu Dungeon Master IA para partidas de D&D con Streamlit y OpenAI.                             | Python · Streamlit · OpenAI |
+| **EDA_POKEMON**                  | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |
+| **Hundir-la-flota**              | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
+| **MoodLens**                     | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
+| **QuantumLearn**                 | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
+| **Tutor_Virtual**                | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · Django          |
+
+---
+
+## 📈 Mis estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjabarber&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 ¡Hablemos!
+
+- ✉️ **Email:** borjagbarber@gmail.com  
+- 🔗 **LinkedIn:** [in/borjabarber](https://www.linkedin.com/in/borjabarber/)  
+- 📊 **Kaggle:** [borjabarber](https://www.kaggle.com/borjabarber)  
+
+---
+
+<p align="center">
+  “La ciencia de datos no trata de datos, sino de decisiones.”  
+</p>
 
 
 <!--
