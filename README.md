@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Graduado como **Data scientist** en **The Bridge School**.
+- 🎓 Graduado como **Data Scientist** en **The Bridge School**.
 - 🤖 Experiencia en **Machine Learning**, **Deep Learning**, **Sistemas Multi-Agente** y **Computer Visión**.
 - 💡 Actualmente profundizando en arquitecturas de agentes autónomos y colaboración IA-humano.
 - 📖 Me encanta compartir conocimiento: charlas, blogs y mini-proyectos.
