@@ -65,12 +65,12 @@
 
 | Proyecto                         | Descripción                                                                                   | Tech Stack               |
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
-| **Dungeon_Master**               | Tu Dungeon Master IA para partidas de D&D con Streamlit y OpenAI.                             | Python · Streamlit · OpenAI |
-| **EDA_POKEMON**                  | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |
-| **Hundir-la-flota**              | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
-| **MoodLens**                     | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
-| **QuantumLearn**                 | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
-| **Tutor_Virtual**                | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · JS - CSS         |
+| [**Dungeon_Master**](https://github.com/borjabarber/Dungeon_Master) | Tu Dungeon Master IA para partidas de D&D con Streamlit y OpenAI.                             | Python · Streamlit · OpenAI |
+| [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |
+| [**Hundir-la-flota**](https://github.com/borjabarber/hundir-la-flota) | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
+| [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
+| [**QuantumLearn**](https://github.com/borjabarber/QuantumLearn)      | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
+| [**Tutor_Virtual**](https://github.com/borjabarber/Tutor_Virtual)    | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · Django          |
 
 ---
 
