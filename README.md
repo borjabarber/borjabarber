@@ -9,14 +9,14 @@
 <h1 align="center">¡Hola! 👋 Soy Borja Barber</h1>
 <p align="center">
   <strong>Data Scientist &amp; AI Engineer</strong><br/>
-  Apasionado por transformar datos en insights accionables y construir soluciones de IA que marquen la diferencia.
+  Apasionado por transformar datos en insights y construir soluciones de IA que marquen la diferencia.
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Graduado en **Ingeniería Informática** con especialización en Ciencia de Datos.
-- 🤖 Experiencia en **Machine Learning**, **Deep Learning** y **Sistemas Multi-Agente**.
+- 🎓 Graduado como **Data scientist** en **The Bridge School**.
+- 🤖 Experiencia en **Machine Learning**, **Deep Learning**, **Sistemas Multi-Agente** y **Computer Visión**.
 - 💡 Actualmente profundizando en arquitecturas de agentes autónomos y colaboración IA-humano.
 - 📖 Me encanta compartir conocimiento: charlas, blogs y mini-proyectos.
 
@@ -55,7 +55,7 @@
 | **Hundir-la-flota**              | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
 | **MoodLens**                     | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
 | **QuantumLearn**                 | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
-| **Tutor_Virtual**                | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · Django          |
+| **Tutor_Virtual**                | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · JS - CSS         |
 
 ---
 
@@ -77,7 +77,7 @@
 ---
 
 <p align="center">
-  “La ciencia de datos no trata de datos, sino de decisiones.”  
+  “La información es el petróleo del siglo XXI, y la analítica es el motor de combustión”  
 </p>
 
 
