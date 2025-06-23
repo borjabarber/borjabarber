@@ -24,50 +24,45 @@
 ## 🛠️ Habilidades & Herramientas
 
 
-### 🧠 Ciencia de Datos
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <!-- Lenguajes y análisis -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2E77BC?logo=python&logoColor=white" />
-</div>
 
-### 🤖 Deep Learning & Computer Vision
-<div align="center">
+  <!-- Deep Learning -->
+
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv11-00FFFF?logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-</div>
 
-### 🧩 Backend & Fullstack
-<div align="center">
+  <!-- Backend & Fullstack -->
+ 
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Reflex-4B4B4B?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-</div>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <!-- Cloud & DevOps -->
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-F9AB00?logo=googlecloud&logoColor=white" />
-</div>
 
-### 🗃️ Bases de Datos
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <!-- Bases de datos -->
+
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-</div>
 
-### 🧪 Otros
-<div align="center">
+  <!-- Otros -->
+
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 </div>
 
 ---
