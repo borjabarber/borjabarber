@@ -75,8 +75,7 @@
 | [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
 | [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Tu entrevistador técnico personal.            | Python · Js · CSS · HTML          |
 | [**QuantumLearn**](https://github.com/borjabarber/QuantumLearn)      | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
-| [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |
-| [**Dungeon_Master**](https://github.com/borjabarber/Dungeon_Master) | Tu Dungeon Master IA para partidas de D&D con Streamlit y OpenAI.                             | Python · Streamlit · OpenAI |
+| [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
 | [**Hundir-la-flota**](https://github.com/borjabarber/hundir-la-flota) | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
 | [**Kaggle Competitions**](https://github.com/borjabarber/Kaggle-Competitions) | Participación en desafíos frente a otros científicos de datos en Kaggle.                 | Jupyter · Python · Machine Learning     |
 | [**Plantillas Data Science**](https://github.com/borjabarber/Plantillas_Data_Science) | Mis plantillas y recursos para proyectos de Ciencia de Datos.                 | Jupyter · Python · CV · OpenAi      |
