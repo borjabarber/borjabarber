@@ -74,7 +74,7 @@
 | [**Tutor_Virtual**](https://github.com/borjabarber/Tutor_Virtual)    | Plataforma de aprendizaje y asistencia para alumnos (colaboración con The Bridge).            | Python · Js · CSS        |
 | [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
 | [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Tu entrevistador técnico personal.            | Python · Js · CSS · HTML          |
-| [**QuantumLearn**](https://github.com/borjabarber/QuantumLearn)      | Ecosistema multiagente para aprendizaje de Ciencia de Datos.                                  | Python · Agentes IA      |
+| [**QuantumLearn**](https://github.com/borjabarber/ML_Cancer_Predict)      | Algoritmo ML de predicción del cáncer                                 | Jupyter · Python · Machine Learning        |
 | [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
 | [**Hundir-la-flota**](https://github.com/borjabarber/hundir-la-flota) | Versión en Python del clásico juego de hundir la flota.                                       | Jupyter · Python         |
 | [**Kaggle Competitions**](https://github.com/borjabarber/Kaggle-Competitions) | Participación en desafíos frente a otros científicos de datos en Kaggle.                 | Jupyter · Python · Machine Learning     |
