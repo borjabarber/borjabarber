@@ -9,7 +9,7 @@
 <h1 align="left">¡Hola!  Soy Borja Barber</h1>
 <p align="left">
   <strong>Data Scientist &amp; AI Engineer</strong><br/>
-   | Especialista en Arquitecturas Generativas (RAG & Agentes) | Lead Instructor  |
+  Especialista en Arquitecturas Generativas (RAG & Agentes) 
 </p>
 
 ---
