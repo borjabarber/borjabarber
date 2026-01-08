@@ -90,10 +90,7 @@
 
 ##  Mis estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&theme=radical&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjabarber&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjabarber&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
