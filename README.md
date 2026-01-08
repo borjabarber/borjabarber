@@ -9,7 +9,7 @@
 <h1 align="left">¡Hola!  Soy Borja Barber</h1>
 <p align="left">
   <strong>Data Scientist &amp; AI Engineer</strong><br/>
-  Apasionado por transformar datos en insights y construir soluciones de IA que marquen la diferencia.
+   
 </p>
 
 ---
