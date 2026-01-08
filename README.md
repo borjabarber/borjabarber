@@ -6,8 +6,8 @@
   <img src="https://github.com/borjabarber/borjabarber/raw/main/profile-banner.png" alt="Banner" width="100%"/>
 </p>
 -->
-<h1 align="center">¡Hola!  Soy Borja Barber</h1>
-<p align="center">
+<h1 align="left">¡Hola!  Soy Borja Barber</h1>
+<p align="left">
   <strong>Data Scientist &amp; AI Engineer</strong><br/>
   Apasionado por transformar datos en insights y construir soluciones de IA que marquen la diferencia.
 </p>
@@ -90,7 +90,7 @@
 
 ##  Mis estadísticas de GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjabarber&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=borjabarber&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjabarber&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
@@ -102,8 +102,8 @@
 
 ---
 
-<p align="center">
-  “La información es el petróleo del siglo XXI, y la analítica es el motor de combustión”  
+<p align="left">
+  “La información es el petróleo del siglo XXI”  
 </p>
 
 
