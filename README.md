@@ -25,7 +25,7 @@
 ##  Habilidades & Herramientas
 
 
-<div align="center">
+<div align="left">
   <!-- Lenguajes y análisis -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
