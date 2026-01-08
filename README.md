@@ -6,7 +6,7 @@
   <img src="https://github.com/borjabarber/borjabarber/raw/main/profile-banner.png" alt="Banner" width="100%"/>
 </p>
 -->
-<h1 align="center">¡Hola! 👋 Soy Borja Barber</h1>
+<h1 align="center">¡Hola!  Soy Borja Barber</h1>
 <p align="center">
   <strong>Data Scientist &amp; AI Engineer</strong><br/>
   Apasionado por transformar datos en insights y construir soluciones de IA que marquen la diferencia.
