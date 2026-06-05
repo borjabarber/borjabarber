@@ -102,8 +102,8 @@
 ---
 
 <p align="left">
-  “La información es el petróleo del siglo XXI”  
-   “try and ensure that with each commit, you leave the code better than you found it”
+  “La información es el petróleo del siglo XXI”    
+   “try and ensure that with each commit, you leave the code better than you found it”  
 </p>
 
 
