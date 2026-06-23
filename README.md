@@ -18,6 +18,7 @@
 
 ##  Sobre mí
 -  Graduado como **Data Scientist** en **The Bridge School**.
+-  Master **Software Dev** en **BIG School**
 -  Experiencia en **Machine Learning**, **Deep Learning**, **Sistemas Multi-Agente** y **Computer Visión**.
 -  Me encuentro profundizando en arquitecturas de agentes autónomos y dinámicas de colaboración IA-humano.
 -  Desarrollo soluciones fullstack aplicadas a inteligencia artificial, combinando backend, machine learning, deep learning y visualización interactiva.
