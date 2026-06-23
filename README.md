@@ -78,9 +78,10 @@
 ##  Proyectos Destacados
 
 | Proyecto                         | Descripción                                                                                   | Tech Stack               |
-|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
-| [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Tu entrevistador técnico personal.            | Python · Js · CSS · HTML          |
-| [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |
+|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|  
+| [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |  
+| [**MirDockMind**](https://github.com/borjabarber/mr-dock-mind)    | Tu especialista CLI en documnetacion.            | Node · Ts · Js    |
+| [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Tu entrevistador técnico personal.            | Python · Js · CSS · HTML          |  
 | [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
 | [**Kaggle Competitions**](https://github.com/borjabarber/Kaggle-Competitions) | Participación en desafíos frente a otros científicos de datos en Kaggle.                 | Jupyter · Python · Machine Learning     |
 | [**Plantillas Data Science**](https://github.com/borjabarber/Plantillas_Data_Science) | Plantillas y recursos creados por mi para proyectos de Ciencia de Datos.                 | Jupyter · Python · CV · OpenAi      |
