@@ -10,7 +10,7 @@
 <p align="left">
   <strong>Scientist &amp; AI Engineer</strong><br/>  
   Especialista en Arquitecturas Generativas (RAG & Agentes)   
-  <strong>Lead Instructor </strong><br/>  
+  <strong></strong><br/>  
 
 </p>
 
