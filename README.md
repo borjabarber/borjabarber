@@ -8,9 +8,9 @@
 -->
 <h1 align="left">¡Hola!  Soy Borja Barber</h1>
 <p align="left">
-  <strong>Data Scientist &amp; AI Engineer</strong><br/>  
+  <strong>Scientist &amp; AI Engineer</strong><br/>  
   Especialista en Arquitecturas Generativas (RAG & Agentes)   
-  <strong>Lead Instructor &amp; Soft & IA Developer</strong><br/>  
+  <strong>Lead Instructor </strong><br/>  
 
 </p>
 
