@@ -18,7 +18,7 @@
 
 ##  Sobre mí
 -  Graduado como **Data Scientist** en **The Bridge School**.
--  Master **Software Dev** en **BIG School**
+-  Master **Software Developer** en **BIG School**
 -  Experiencia en **Machine Learning**, **Deep Learning**, **Sistemas Multi-Agente** y **Computer Visión**.
 -  Me encuentro profundizando en arquitecturas de agentes autónomos y dinámicas de colaboración IA-humano.
 -  Desarrollo soluciones fullstack aplicadas a inteligencia artificial, combinando backend, machine learning, deep learning y visualización interactiva.
@@ -84,6 +84,7 @@
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|  
 | [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |  
 | [**MrDockMind**](https://github.com/borjabarber/mr-dock-mind)    | RAG local en formato CLI para consultar documentacion  | Node.js · Ts · Js    |
+| [**Wormarkert**](https://github.com/borjabarber/Wormarket)    | Ecomerce de compra/venta de objetos multidimensionales  | Python · Ts · Css    |
 | [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Entrevistador técnico personal.            | Python · Js · CSS · HTML · React         |  
 | [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
 | [**Kaggle Competitions**](https://github.com/borjabarber/Kaggle-Competitions) | Participación en desafíos frente a otros científicos de datos en Kaggle.                 | Jupyter · Python · Machine Learning     |
