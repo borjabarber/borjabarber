@@ -83,7 +83,7 @@
 | Proyecto                         | Descripción                                                                                   | Tech Stack               |
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|  
 | [**MoodLens**](https://github.com/borjabarber/MoodLens)              | Traductor de emociones a pictogramas para TEA.                                                | Jupyter · NLP · OpenCV   |  
-| [**MrDockMind**](https://github.com/borjabarber/mr-dock-mind)    | RAG local en formato CLI para consultar documentacion  | Node.js · Ts · Js    |
+| [**MrDockMind**](https://github.com/borjabarber/mr-dock-mind)    | RAG local en formato CLI para consultar documentacion web | Node.js · Ts · Js    |
 | [**Wormarkert**](https://github.com/borjabarber/Wormarket)    | Ecomerce de compra/venta de objetos multidimensionales  | Python · Ts · Css    |
 | [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Entrevistador técnico personal.            | Python · Js · CSS · HTML · React         |  
 | [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
