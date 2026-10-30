@@ -86,6 +86,7 @@
 | [**MrDockMind**](https://github.com/borjabarber/mr-dock-mind)    | RAG local en formato CLI para consultar documentacion web | Node.js · Ts · Js    |
 | [**Wormarkert**](https://github.com/borjabarber/Wormarket)    | Ecomerce de compra/venta de objetos multidimensionales  | Python · Ts · Css    |
 | [**ByteWise**](https://github.com/borjabarber/ByteWise)    | Entrevistador técnico personal.            | Python · Js · CSS · HTML · React         |  
+| [**EDA_España en cifras**](https://github.com/borjabarber/EDA_Espana_en_cifras)        | Un análisis de la legislatura del PSOE antes de las elecciones.                                         | Jupyter · Pandas · Matplotlib |  
 | [**EDA_POKEMON**](https://github.com/borjabarber/EDA_POKEMON)        | Análisis exploratorio de datos del universo Pokémon.                                          | Jupyter · Pandas · Matplotlib |  
 | [**Kaggle Competitions**](https://github.com/borjabarber/Kaggle-Competitions) | Participación en desafíos frente a otros científicos de datos en Kaggle.                 | Jupyter · Python · Machine Learning     |
 | [**Plantillas Data Science**](https://github.com/borjabarber/Plantillas_Data_Science) | Plantillas y recursos creados por mi para proyectos de Ciencia de Datos.                 | Jupyter · Python · CV · OpenAi      |
@@ -127,3 +128,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
